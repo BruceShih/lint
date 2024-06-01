@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      '@bruceshih/lint':
+        specifier: workspace:*
+        version: 'link:'
       '@types/fs-extra':
         specifier: ^11.0.4
         version: 11.0.4
